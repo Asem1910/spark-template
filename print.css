@@ -1,0 +1,9 @@
+@media (min-width:  1000px) and (max-width: 1400px) { 
+    .assign-one,.as{
+    color: blue;
+    }
+    .assign-one,.as{
+        color: red;
+    }
+  
+  }
